@@ -1,0 +1,34 @@
+<RCC>
+  <qresource>
+    <file>Actions-edit-redo-icon.png</file>
+    <file>Button-delete-icon.png</file>
+    <file>Delete-icon.png</file>
+    <file>Device-nfs-mount-icon.png</file>
+    <file>Device-usb-drive-mount-icon.png</file>
+    <file>document-application-icon.png</file>
+    <file>update-icon.png</file>
+    <file>Folder-icon.png</file>
+    <file>1410400939_usbpendrive_unmount.png</file>
+    <file>Capital18-Capital-Suite-File-Types-ISO.ico</file>
+    <file>Mimetypes-iso-icon.png</file>
+    <file>App-kcm-partitions-icon.png</file>
+    <file>Apps-File-Iso-icon.png</file>
+    <file>Apps-File-Iso-icon.png</file>
+    <file>file-extension-iso-icon.png</file>
+    <file>k-cm-partitions-icon.png</file>
+    <file>Filetype-ISO-icon.png</file>
+    <file>Partition-Magic-icon.png</file>
+    <file>Partition-magic-icon.png</file>
+    <file>USB-icon.png</file>
+    <file>USB-Stick-icon.png</file>
+    <file>1410400946_usbpendrive_UNmount.png</file>
+    <file>1410400946_usbpendrive_mount.png</file>
+    <file>onyukler.png</file>
+    <file>cd-rom-driver-icon.png</file>
+    <file>CD-ROM-icon.png</file>
+    <file>Cd-rom-icon.png</file>
+    <file>Hardware-CD-ROM-icon.png</file>
+    <file>onyukler1.png</file>
+    <file>Actions-im-ban-user-icon.png</file>
+  </qresource>
+</RCC>
